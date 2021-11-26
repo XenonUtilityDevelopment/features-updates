@@ -79,6 +79,8 @@ What is this: this is for showing what we add or are adding to xenon! And Also t
 `
 * `Added Capes
 `
+* `Added ALT account Manager
+`
 
 # Version 0.1.3 (Current)
 * `Adding Remote Loader
