@@ -87,5 +87,5 @@ What is this: this is for showing what we add or are adding to xenon! And Also t
 `
 * `ReWrote Website
 `
-* `Added A Custom Icon insted of crafting table.
+* `Added A Custom Icon instead of crafting table.
 `
