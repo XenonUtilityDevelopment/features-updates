@@ -30,6 +30,10 @@ What is this??: this is for showing what we add or are adding to xenon! And Also
 `
 * `Added CrystalAura (Not Working)
 `
+* `Added Welcome Box
+`
+* `Made Website
+`
 # Version 0.1.0
 * `Removed all of the Devs
 `
@@ -39,11 +43,49 @@ What is this??: this is for showing what we add or are adding to xenon! And Also
 `
 * `Added better CommandSystem
 `
-* `Added more hud options.
+* `Added more HUD options.
 `
 
-# Version 0.0.6
+# Version 0.1.1
+* `Added Brimstone Event System my Gav06 (Repo Deleted but Forked on my GitHub).
+`
+* `Fixed Console.
+`
+* `Fixed Xenon utils.
+`
+* `Shrunk Xenon Jar Size .
+`
 
-# Version 0.0.6
+# Version 0.1.2 
+* `Added AntiBot
+`
+* `Added FastEXP
+`
+* `Added TotemPopCounter
+`
+* `Added AntiCrash
+`
+* `Added More Commands
+`
+* `Added AutoWalk
+`
+* `Added AlwaysNight
+`
+* `Added No Fire
+`
+* `Added No Particals
+`
+* `Added No Rain
+`
 
-# Version 0.0.6
+# Version 0.1.3 (Current)
+* `Adding Remote Loader
+`
+* `Making everything more organised
+`
+* `Atempting to make Custom Main Menu
+`
+* `ReWrote Website
+`
+* `Added A Custom Icon insted of crafting table.
+`
