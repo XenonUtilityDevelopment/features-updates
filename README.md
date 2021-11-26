@@ -93,3 +93,5 @@ What is this: this is for showing what we add or are adding to xenon! And Also t
 `
 * `Added A Custom Icon instead of crafting table.
 `
+* `Fixed Velocity.
+`
