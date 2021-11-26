@@ -1,5 +1,5 @@
 # features-updates
-What is this??: this is for showing what we add or are adding to xenon! And Also the xenon timeline.
+What is this: this is for showing what we add or are adding to xenon! And Also the xenon timeline.
 
 # Version 0.0.6
 * `Client is obtained from max.
